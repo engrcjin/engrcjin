@@ -1,4 +1,4 @@
-# 💡 Chinie Marie S. Cordero
+# :woman_technologist: Chinie Marie S. Cordero
 
 ### Assistant Systems Design Engineer  
 
