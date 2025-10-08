@@ -1,7 +1,5 @@
 # :woman_technologist: Chinie Marie S. Cordero
 
-### Assistant Systems Design Engineer  
-
 A **Licensed Electronics Engineer** currently working as an **Assistant Systems Design Engineer**, with a passion for technology and innovation.  
 Programming is my hobby — I enjoy building personal projects that merge **electronics, software, and data**.  
 
