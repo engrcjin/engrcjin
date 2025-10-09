@@ -3,7 +3,7 @@
 A **Licensed Electronics Engineer** currently working as an **Assistant Systems Design Engineer**, with a passion for technology and innovation.  
 Programming is my hobby — I enjoy building personal projects that merge **electronics, software, and data**.  
 
-Proficient in **HTML**, **CSS**, **JavaScript**, **MATLAB** (and its GUI), **Python**, **C++**, **Arduino**, **MySQL**, **PHP**, and **XAMPP**.  
+Proficient in **HTML**, **CSS**, **JavaScript**, **MATLAB** (and its GUI), **Python**, **C++**, **Arduino**, **MySQL**, **PHP**, **Docker**, and **XAMPP**.  
 Currently exploring **Artificial Intelligence**, including **no-code**, **low-code**, and **traditional (Python-based)** development through tools and frameworks such as **Teachable Machine**, **Roboflow**, **n8n**, **Make**, **Hugging Face**, and **Kaggle**.  
 
 ---
